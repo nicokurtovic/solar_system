@@ -1,4 +1,4 @@
-# Solar System PLanet's on a specific date
+# Solar System: Planets position on a specific date
 
 This code generates an image of the Solar System Planet's positions for a specific date. The plotted orbits correspond to a line following the positions of each planet over their last orbit. 
 
